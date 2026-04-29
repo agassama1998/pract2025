@@ -50,6 +50,7 @@
   <ItemGroup>
     <None Include=".github\workflows\docker-publish.yml" />
     <None Include="App.config" />
+    <None Include="dockerfile" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
