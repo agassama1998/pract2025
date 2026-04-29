@@ -5,3 +5,4 @@ C:\Users\MNDC26\OneDrive - King Suad University\Desktop\AWS DevSecOps Engineer\L
 C:\Users\MNDC26\OneDrive - King Suad University\Desktop\AWS DevSecOps Engineer\Learn with Abou devSecOp\New folder\pract2025\repos\obj\Debug\pract2025.csproj.CoreCompileInputs.cache
 C:\Users\MNDC26\OneDrive - King Suad University\Desktop\AWS DevSecOps Engineer\Learn with Abou devSecOp\New folder\pract2025\repos\obj\Debug\pract2025.exe
 C:\Users\MNDC26\OneDrive - King Suad University\Desktop\AWS DevSecOps Engineer\Learn with Abou devSecOp\New folder\pract2025\repos\obj\Debug\pract2025.pdb
+C:\Users\MNDC26\OneDrive - King Suad University\Desktop\AWS DevSecOps Engineer\Learn with Abou devSecOp\New folder\pract2025\repos\obj\Debug\pract2025.exe.config
